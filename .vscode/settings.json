@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "Cargo.toml": "toml",
+    "*.proto": "proto3"
+  },
+  "[proto3]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}
